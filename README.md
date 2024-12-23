@@ -1,2 +1,2 @@
 # fryptus.github.io
-fryptus' Blog
+Blog
