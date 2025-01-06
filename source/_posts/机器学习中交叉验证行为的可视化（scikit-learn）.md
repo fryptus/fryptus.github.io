@@ -1,7 +1,7 @@
 ---
 title: 机器学习中交叉验证行为的可视化（scikit-learn）
 date: 2024-12-31 01:05:59
-tags: machine learning, corss-validation 
+tags: [machine learning, corss-validation] 
 categories: machine learning
 keywords: 交叉验证， 可视化
 description: 可视化scikit-learn中交叉验证行为的方法，方便更直观的比较不同的交叉验证行为。
