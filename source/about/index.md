@@ -96,7 +96,7 @@ aside: false
 
 <div class="divider"></div>
 
-<div class="section">
+<!-- <div class="section">
     <h2>My Coding Status</h2>
     <div class="img-container">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fryptus&theme=transparent&hide_border=true&layout=compact&langs_count=22">
@@ -115,7 +115,7 @@ aside: false
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=fryptus&theme=github-compact&hide_border=true&area=true"/>
 </div>
 
-<div class="divider"></div>
+<div class="divider"></div> -->
 
 <div class="section">
     <h2>Tech Stack</h2>
